@@ -1,0 +1,10 @@
+[package]
+edition = "2021"
+name = "vla"
+version = "0.0.0"
+authors = ["silvanshade <silvanshade@users.noreply.github.com>"]
+license = "Apache-2.0 WITH LLVM-exception"
+repository = "https://github.com/silvanshade/vla"
+description = "Vector-length agnostic programming for Rust"
+
+[dependencies]
